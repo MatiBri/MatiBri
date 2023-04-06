@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Matias Brizuela</h1>
 <h3 align="center">Digital Crafts<h1 align="center">Hi 👋, I'm Matias Brizuela</h1>
 <h3 align="center">Digital Craftsman (Full-stack dev/Software/Databases/Videogames)</h3>
 
