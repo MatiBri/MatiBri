@@ -1,6 +1,7 @@
+<img align="center" alt="Banner" width="1000" src="https://github.com/MatiBri/MatiBri/blob/main/banner-github.png">
+
 <h1 align="center">Hi 👋, I'm Matias Brizuela</h1>
 <h3 align="center">Digital Craftsman (Full-stack dev/Software/Databases/Videogames)</h3>
-<img align="center" alt="Banner" width="1000" src="https://github.com/MatiBri/MatiBri/blob/main/banner-github.png">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
