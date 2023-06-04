@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matibri&label=Profile%20views&color=0e75b6&style=flat" alt="matibri" /> </p>
 
-- 🌱 I’m currently learning **Unity, Blender, C# Script, Three.js**
+- 🌱 I’m currently learning **Unity, Blender, C# Script, Three.js and Python**
 
 - 🤝 I’m looking for help with [Apocalypse-Day](https://github.com/MatiBri/Apocalypse-Day)
 
