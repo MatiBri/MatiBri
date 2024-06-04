@@ -7,15 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matibri&label=Profile%20views&color=0e75b6&style=flat" alt="matibri" /> </p>
 
-- 🌱 I’m currently learning **Unity, Blender, C# Script, Three.js and Python**
-
-- 🤝 I’m looking for help with [Apocalypse-Day](https://github.com/MatiBri/Apocalypse-Day)
+- 🌱 I’m currently learning **.NET MAUI, React.js, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatiBri?tab=repositories](https://github.com/MatiBri?tab=repositories)
 
-- 💬 Ask me about **ACS, GZDoom engine, React**
+- 💬 Ask me about **C#, React.js, Java**
 
-- 📫 How to reach me **matias360@outlook.es**
+- 📫 How to reach me **matiasbrizuela567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
