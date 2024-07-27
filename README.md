@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matibri&label=Profile%20views&color=0e75b6&style=flat" alt="matibri" /> </p>
 
-- 🌱 I’m currently learning **.NET MAUI, React.js, Python**
+- 🌱 I’m currently learning **.NET MAUI, Python, Nest.js, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatiBri?tab=repositories](https://github.com/MatiBri?tab=repositories)
 
