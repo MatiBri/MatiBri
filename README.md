@@ -1,17 +1,17 @@
 <img align="center" alt="Banner" width="1000" src="https://github.com/MatiBri/MatiBri/blob/main/banner-github.png">
 
 <h1 align="center">Hi 👋, I'm Matias Brizuela</h1>
-<h3 align="center">Digital Craftsman (Full-stack dev/Software/Databases)</h3>
+<h3 align="center">Full-stack dev/Software/Databases</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk1NjJmYjMyMmIzMzg5MzY3YzI5NzQ4ZWZhNDgwZDgyYmRjZTUxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matibri&label=Profile%20views&color=0e75b6&style=flat" alt="matibri" /> </p>
 
-- 🌱 I’m currently learning **.NET MAUI, Python, Nest.js, Docker**
+- 🌱 I’m currently learning **.NET MAUI, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatiBri?tab=repositories](https://github.com/MatiBri?tab=repositories)
 
-- 💬 Ask me about **C#, React.js, Java**
+- 💬 Ask me about **C#, .NET**
 
 - 📫 How to reach me **matiasbrizuela567@gmail.com**
 
@@ -53,18 +53,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matibri&show_icons=true&locale=en&layout=compact" alt="matibri" /></p>
